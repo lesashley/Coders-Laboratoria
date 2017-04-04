@@ -26,12 +26,15 @@ body{
   -o-transition: all 1s ease;
 }
 
-.estilo:hover {
-    height: 300px;
-    width: 300px;
-    margin-left: 50px;
+.estilo:hover{
+  opacity: 0.8;
+  height: 300px;
+  width: 300px;
+  margin-left: 40px;
 }
 footer{
   background: white;
   color: #565554;
+  height: 20px;
+  padding: 50px;
 }
